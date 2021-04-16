@@ -1,0 +1,11 @@
+Adding the files in to Already exist Repository:
+1.git add .
+2.git commit -m "message"
+3.git remote "#It is Used Displaying already exist remote names"
+4.git push remote_name branch_name
+
+
+
+
+for getting files from repository
+1. git pull remote_name branch_name
